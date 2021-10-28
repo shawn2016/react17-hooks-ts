@@ -1,11 +1,3 @@
-/*
- * @Author: your name
- * @Date: 2021-10-28 13:37:30
- * @LastEditTime: 2021-10-28 14:00:54
- * @LastEditors: your name
- * @Description: In User Settings Edit
- * @FilePath: /react17-hooks-ts/src/App.tsx
- */
 import React from "react";
 import logo from "./logo.svg";
 import "./App.css";
