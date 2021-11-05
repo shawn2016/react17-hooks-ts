@@ -10,6 +10,10 @@ cd my-app
 npm start
 ```
 
+提交代码之前格式化，使用 prettier + _husky_
+
+格式化提交代码备注：commitlint
+
 ## Available Scripts
 
 In the project directory, you can run:
